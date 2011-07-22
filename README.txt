@@ -1,0 +1,1 @@
+Algostru is a small collection of algorithms and data structures implemented in C#
