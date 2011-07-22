@@ -1,0 +1,13 @@
+bin/
+obj/
+*.suo
+*proj.user
+*.log
+*.dat
+*.DAT
+*.Database/sql/
+TestResults/
+_ReSharper.*/
+*.ReSharper.user
+
+
